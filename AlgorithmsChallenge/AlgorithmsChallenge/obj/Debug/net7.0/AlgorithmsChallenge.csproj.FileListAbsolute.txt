@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\bin\Debug\net7.0\AlgorithmsChallenge.exe
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\bin\Debug\net7.0\AlgorithmsChallenge.deps.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\bin\Debug\net7.0\AlgorithmsChallenge.runtimeconfig.json
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\bin\Debug\net7.0\AlgorithmsChallenge.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\bin\Debug\net7.0\AlgorithmsChallenge.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\refint\AlgorithmsChallenge.dll
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.pdb
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\AlgorithmsChallenge.genruntimeconfig.cache
+C:\Users\USER\Documents\JituTraining\MentorAssignment\Practice_Exercises\Algorithms\AlgorithmsChallenge\AlgorithmsChallenge\obj\Debug\net7.0\ref\AlgorithmsChallenge.dll
