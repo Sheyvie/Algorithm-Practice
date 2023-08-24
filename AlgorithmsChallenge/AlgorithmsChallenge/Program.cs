@@ -6,11 +6,34 @@
 //casing should remain the same
 
 
-using System.Net.WebSockets;
+using System.Linq;
+using System.Text;
 
 public class Algorithm
 {
-    static string Reverse( string input)
+
+    static String ReverseWord(String input)
+    {
+        if (String.IsNullOrEmpty(input))
+        {
+            return input;
+        }
+
+        StringBuilder result = new StringBuilder();
+        string[] arr = input.Split(" ");
+        for (int  i=0; i < arr.Length; i++)
+        {
+            result.Append(Reverse1(arr[i]));
+
+                if(i != arr.Length - 1) 
+            {
+                result.Append(" ");
+            }
+                
+        }
+        return result.ToString();
+    }
+    static string Reverse1( string input)
     {
         if (string.IsNullOrEmpty(input)){
             return input;
@@ -23,8 +46,13 @@ public class Algorithm
 
     static void Main(string[] args)
     {
-        Console.WriteLine(Reverse("My name is Abdallah and I am a developer"));
-        Console.WriteLine(Reverse("I like going to the sandy beaches of Diani"));
-        Console.WriteLine( Reverse("La vie est belle"));
+        //Console.WriteLine(Reverse1("My name is Abdallah and I am a developer"));
+        //Console.WriteLine(Reverse1("I like going to the sandy beaches of Diani"));
+        //Console.WriteLine( Reverse1("La vie est belle"));
+        Console.WriteLine(ReverseWord("My name is Abdallah and I am a developer"));
+        Console.WriteLine(ReverseWord("I like going to the sandy beaches of Diani"));
+        Console.WriteLine(ReverseWord("La vie est belle"));
+        Console.WriteLine(ReverseWord(null));
+        Console.WriteLine(ReverseWord(" "));
     }
 }
